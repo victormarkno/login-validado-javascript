@@ -1,2 +1,5 @@
 # login-validado-javascript
-Practicade JavaScript para DOM
+Practica de JavaScript para DOM
+
+Deploy with Netlify
+link: https://login-test-javascript.netlify.app
